@@ -1,6 +1,6 @@
-# SE Assessment — Aditi Choudhary
+# API Puzzle — Aditi Choudhary
 
-Solution to the four-layer engineering assessment.
+Solution to the four-layer engineering API Puzzle
 
 ## Repository structure
 
